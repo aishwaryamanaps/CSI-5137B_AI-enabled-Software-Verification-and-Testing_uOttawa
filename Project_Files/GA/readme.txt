@@ -1,0 +1,1 @@
+Import this project on any IDE, example: pycharm. run the file genetic_algorithm.py
